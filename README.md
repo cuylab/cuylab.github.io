@@ -5,6 +5,6 @@
 
   # cuylab's Website
 
-  Visit **[cuylab.github.io](https://cuylab.github.io)** 🚀
+  Visit **[cuylab.org](http://cuylab.org)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
