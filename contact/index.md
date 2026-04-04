@@ -10,7 +10,7 @@ nav:
 {%
   include button.html
   type="email"
-  text="matias.quintana@sec.ethz.ech"
+  text="matias.quintana@sec.ethz.ch"
   link="matias.quintana@sec.ethz.ch"
 %}
 {%
