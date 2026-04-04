@@ -8,13 +8,8 @@ proofer: false
 
 # site social media and other links
 links:
-  email:
-  orcid:
-  google-scholar:
   github: cuylab
-  twitter:
-  youtube:
-
+  linkedin:
 ### jekyll settings
 
 # front matter defaults

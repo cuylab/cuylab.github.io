@@ -2,7 +2,8 @@
 name: Matias Quintana
 image: images/Matias.jpg
 role: principal-investigator
-affiliation: Singapore Management University
+nav:
+  order: 1
 aliases:
   - M Quintana
 links:
