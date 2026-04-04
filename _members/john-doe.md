@@ -1,7 +1,7 @@
 ---
 name: John Doe
 image: images/photo.jpg
-role: phd
+role: phd-test
 group: alum
 links:
   github: john-doe

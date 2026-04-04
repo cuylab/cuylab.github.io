@@ -18,7 +18,40 @@ layout: default
 
 {% include float.html content=floatcontent %}
 
-{{ content }}
+<div class="bio-content">
+  {{ content }}
+</div>
+
+{% if page.interests or page.education %}
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; margin-top: 2rem; border-top: 1px solid #eee; padding-top: 2rem;">
+
+  {% if page.interests %}
+  <div style="flex: 1; min-width: 250px;">
+    <h3 style="margin-top: 0;">Interests</h3>
+    <ul style="list-style-type: none; padding-left: 0;">
+      {% for interest in page.interests %}
+        <li><i class="fas fa-check" style="font-size: 0.8em; margin-right: 8px; color: #666;"></i> {{ interest }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  {% if page.education %}
+  <div style="flex: 1; min-width: 250px;">
+    <h3 style="margin-top: 0;">Education</h3>
+    <ul style="list-style-type: none; padding-left: 0;">
+      {% for edu in page.education %}
+        <li style="margin-bottom: 15px;">
+          <strong>{{ edu.degree }}</strong>, {{ edu.year }}<br>
+          <span style="color: #666; font-size: 0.95em;">{{ edu.institution }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+</div>
+{% endif %}
 
 {% assign aliases = page.aliases
   | default: page.name
