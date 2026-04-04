@@ -1,9 +1,8 @@
 ---
 name: Matias Quintana
 image: images/Matias.jpg
-role: principal-investigator
-nav:
-  order: 1
+description: Principal Investigator
+role: pi
 aliases:
   - M Quintana
 links:
