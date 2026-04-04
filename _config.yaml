@@ -1,19 +1,19 @@
 # site properties and page defaults
 title: cuylab
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+subtitle:
+description: The Computational Urban Systems Lab is a research group at the Singapore Management University. Our focus is human-centric urban informatics.
+header:
+footer:
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@cuylab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email:
+  orcid:
+  google-scholar:
   github: cuylab
-  twitter: cuylab
-  youtube: cuylab
+  twitter:
+  youtube:
 
 ### jekyll settings
 

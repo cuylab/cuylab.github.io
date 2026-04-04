@@ -1,9 +1,10 @@
 ---
 ---
 
-# cuylab's Website
+# Computational Urban Systems (CUY) Lab
 
-An engaging 1-3 sentence description of your lab.
+The Computational Urban Systems Lab is a research group at the Singapore Management University. i
+Our focus is human-centric urban informatics.
 
 {% include section.html %}
 
