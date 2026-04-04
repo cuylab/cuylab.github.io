@@ -1,1 +1,1 @@
-Sitemap: http://cuylab.org/sitemap.xml
+Sitemap: https://cuylab.github.io/sitemap.xml
