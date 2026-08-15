@@ -1,6 +1,8 @@
 # site properties and page defaults
 title: cuylab
 subtitle:
+# the header logo already spells out the lab name, so don't repeat it as text
+show-title: false
 description: The Computational Urban Systems Lab is a research group at the Singapore Management University. Our focus is human-centric urban informatics.
 header:
 footer:

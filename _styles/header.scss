@@ -1,8 +1,8 @@
 ---
 ---
 
-$logo-big: 80px;
-$logo: 40px;
+$logo-big: 120px;
+$logo: 44px;
 $big-padding: 100px;
 $collapse: 700px;
 $sticky: true;
@@ -40,11 +40,14 @@ header a {
 
 .logo {
   height: $logo;
+  max-width: 100%;
 }
 
 .logo > * {
   width: unset;
   height: 100%;
+  max-width: 100%;
+  object-fit: contain;
 }
 
 // a raster logo can't inherit currentColor the way an inlined svg does,
