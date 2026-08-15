@@ -1,209 +1,1175 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.patter.2026.101514
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1016/j.landurbplan.2026.105618
+  title: 'It is not always greener on the other side: Greenery perception across demographics
+    and personalities in multiple cities'
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Patterns
-  date: '2026-03-01'
-  link: https://doi.org/hbvg3p
-  orcid: 0000-0002-4655-3773
+  - Matias Quintana
+  - Fangqi Liu
+  - Jussi Torkko
+  - Youlong Gu
+  - Xiucheng Liang
+  - Yujun Hou
+  - Koichi Ito
+  - Yihan Zhu
+  - Mahmoud Abdelrahman
+  - Tuuli Toivonen
+  - Yi Lu
+  - Filip Biljecki
+  publisher: Landscape and Urban Planning
+  date: '2026-07-01'
+  link: https://doi.org/hbtjbk
+  orcid: 0000-0002-0486-221X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1145/3765611.3815347
+  title: 'Wildly Efficient: Towards minimal sampling in urban visual perception studies
+    in the wild'
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  - Matias Quintana
+  - Xiucheng Liang
+  - Evelyn Loo
+  - Filip Biljecki
+  publisher: Proceedings of the 2026 ACM Sustainability Week
+  date: '2026-06-22'
+  link: https://doi.org/hcfrwh
+  orcid: 0000-0002-0486-221X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1177/23998083261448244
+  title: 'Semantic urban elements: A Design+Science paradigm to augment human-centric
+    cities?'
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Matias Quintana
+  - Chenyi Cai
+  - Rohit K. Dubey
+  - "Javier Argota S\xE1nchez-Vaquerizo"
+  - Youlong Gu
+  - Kosuke Kuriyama
+  - Shiying Li
+  - "Christoph H\xF6lscher"
+  - Aurel von Richthofen
+  - Pieter Herthogs
+  - Dirk Helbing
+  - Filip Biljecki
+  publisher: 'Environment and Planning B: Urban Analytics and City Science'
+  date: '2026-05-12'
+  link: https://doi.org/hcfrwj
+  orcid: 0000-0002-0486-221X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1145/3736425.3772358
+  title: How realistic are synthetic energy data? Feature-based evaluation of generated
+    smart meter load profiles
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Nazar Demir
+  - Talia Qaiser
+  - Ada Canaydin
+  - Chun Fu
+  - Matias Quintana
+  - Clayton Miller
+  - Hussain Kazmi
+  publisher: Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient
+    Buildings, Cities, and Transportation
+  date: '2025-11-11'
+  link: https://doi.org/hcfrwk
+  orcid: 0000-0002-0486-221X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1038/s44284-025-00330-x
+  title: Global urban visual perception varies across demographics and personalities
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Matias Quintana
+  - Youlong Gu
+  - Xiucheng Liang
+  - Yujun Hou
+  - Koichi Ito
+  - Yihan Zhu
+  - Mahmoud Abdelrahman
+  - Filip Biljecki
+  publisher: Nature Cities
+  date: '2025-10-22'
+  link: https://doi.org/hbnqpn
+  orcid: 0000-0002-0486-221X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1016/j.buildenv.2025.113388
+  title: 'Make yourself comfortable: Nudging urban heat and noise mitigation with
+    smartwatch-based Just-in-time Adaptive Interventions (JITAI)'
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Clayton Miller
+  - Yun Xuan Chua
+  - Matias Quintana
+  - Binyu Lei
+  - Filip Biljecki
+  - Mario Frei
+  publisher: Building and Environment
+  date: '2025-10-01'
+  link: https://doi.org/hcfrwm
+  orcid: 0000-0002-0486-221X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1016/j.landurbplan.2025.105368
+  title: Designing effective image-based surveys for urban visual perception
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Youlong Gu
+  - Matias Quintana
+  - Xiucheng Liang
+  - Koichi Ito
+  - Winston Yap
+  - Filip Biljecki
+  publisher: Landscape and Urban Planning
+  date: '2025-08-01'
+  link: https://doi.org/hcfrwn
+  orcid: 0000-0002-0486-221X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1016/j.buildenv.2025.112748
+  title: What is a Digital Twin anyway? Deriving the definition for the built environment
+    from over 15,000 scientific publications
   authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Mahmoud Abdelrahman
+  - Edgardo Macatulad
+  - Binyu Lei
+  - Matias Quintana
+  - Clayton Miller
+  - Filip Biljecki
+  publisher: Building and Environment
+  date: '2025-04-01'
+  link: https://doi.org/hcfrwp
+  orcid: 0000-0002-0486-221X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1016/j.enbuild.2024.115247
+  title: 'Recommender systems and reinforcement learning for human-building interaction
+    and context aware support: A text mining-driven review of scientific literature'
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Wenhao Zhang
+  - Matias Quintana
+  - Clayton Miller
+  publisher: Energy and Buildings
+  date: '2025-02-01'
+  link: https://doi.org/hcfrwq
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arXiv.2505.12758
+  title: Global urban visual perception varies across demographics and personalities
+  authors:
+  - Matias Quintana
+  - Youlong Gu
+  - Xiucheng Liang
+  - Yujun Hou
+  - Koichi Ito
+  - Yihan Zhu
+  - Mahmoud Abdelrahman
+  - Filip Biljecki
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/hcfrwr
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arXiv.2512.17186
+  title: 'It is not always greener on the other side: Greenery perception across demographics
+    and personalities in multiple cities'
+  authors:
+  - Matias Quintana
+  - Fangqi Liu
+  - Jussi Torkko
+  - Youlong Gu
+  - Xiucheng Liang
+  - Yujun Hou
+  - Koichi Ito
+  - Yihan Zhu
+  - Mahmoud Abdelrahman
+  - Tuuli Toivonen
+  - Yi Lu
+  - Filip Biljecki
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/hcfrws
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arXiv.2501.09530
+  title: 'Make yourself comfortable: Nudging urban heat and noise mitigation with
+    smartwatch-based Just-in-time Adaptive Interventions (JITAI)'
+  authors:
+  - Clayton Miller
+  - Yun Xuan Chua
+  - Matias Quintana
+  - Binyu Lei
+  - Filip Biljecki
+  - Mario Frei
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/hcfrwt
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1742-6596/3140/11/112017
+  title: 'The Cool, Quiet City machine learning competition: Overview and results'
+  authors:
+  - C Miller
+  - M Ibrahim
+  - I S Akbar
+  - B Picchetti
+  - Y X Chua
+  - M Frei
+  - F Biljecki
+  - A Chong
+  - M Quintana
+  - C Fu
+  publisher: 'Journal of Physics: Conference Series'
+  date: '2025-11-01'
+  link: https://doi.org/hcfrwv
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.compenvurbsys.2025.102283
+  title: 'ZenSVI: An open-source software for the integrated acquisition, processing
+    and analysis of street view imagery towards scalable urban science'
+  authors:
+  - Koichi Ito
+  - Yihan Zhu
+  - Mahmoud Abdelrahman
+  - Xiucheng Liang
+  - Zicheng Fan
+  - Yujun Hou
+  - Tianhong Zhao
+  - Rui Ma
+  - Kunihiko Fujiwara
+  - Jiani Ouyang
+  - Matias Quintana
+  - Filip Biljecki
+  publisher: Computers, Environment and Urban Systems
+  date: '2025-07-01'
+  link: https://doi.org/g9fp56
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/13658816.2024.2391969
+  title: Translating street view imagery to correct perspectives to enhance bikeability
+    and walkability studies
+  authors:
+  - Koichi Ito
+  - Matias Quintana
+  - Xianjing Han
+  - Roger Zimmermann
+  - Filip Biljecki
+  publisher: International Journal of Geographical Information Science
+  date: '2024-08-27'
+  link: https://doi.org/hcfrww
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3671127.3698700
+  title: 'My street is better than your street: Towards data-driven urban planning
+    with visual perception'
+  authors:
+  - Matias Quintana
+  - Youlong Gu
+  - Filip Biljecki
+  publisher: Proceedings of the 11th ACM International Conference on Systems for Energy-Efficient
+    Buildings, Cities, and Transportation
+  date: '2024-10-29'
+  link: https://doi.org/hcfrwx
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.isprsjprs.2024.06.023
+  title: "Global Streetscapes \u2014 A comprehensive dataset of 10 million street-level\
+    \ images across 688 cities for urban science and analytics"
+  authors:
+  - Yujun Hou
+  - Matias Quintana
+  - Maxim Khomiakov
+  - Winston Yap
+  - Jiani Ouyang
+  - Koichi Ito
+  - Zeyu Wang
+  - Tianhong Zhao
+  - Filip Biljecki
+  publisher: ISPRS Journal of Photogrammetry and Remote Sensing
+  date: '2024-09-01'
+  link: https://doi.org/g9fprm
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.buildenv.2024.111479
+  title: "A data-driven agent-based model of occupants\u2019 thermal comfort behaviors\
+    \ for the planning of district-scale flexible work arrangements"
+  authors:
+  - "Mart\xEDn Mosteiro-Romero"
+  - Matias Quintana
+  - Rudi Stouffs
+  - Clayton Miller
+  publisher: Building and Environment
+  date: '2024-06-01'
+  link: https://doi.org/hcfrwz
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.enbuild.2024.114216
+  title: Creating synthetic energy meter data using conditional diffusion and building
+    metadata
+  authors:
+  - Chun Fu
+  - Hussain Kazmi
+  - Matias Quintana
+  - Clayton Miller
+  publisher: Energy and Buildings
+  date: '2024-06-01'
+  link: https://doi.org/hbcmw5
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arXiv.2404.00525
+  title: Creating synthetic energy meter data using conditional diffusion and building
+    metadata
+  authors:
+  - Chun Fu
+  - Hussain Kazmi
+  - Matias Quintana
+  - Clayton Miller
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/hcfrw2
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.applthermaleng.2023.121545
+  title: 'Filling time-series gaps using image techniques: Multidimensional context
+    autoencoder approach for building energy data imputation'
+  authors:
+  - Chun Fu
+  - Matias Quintana
+  - Zoltan Nagy
+  - Clayton Miller
+  publisher: Applied Thermal Engineering
+  date: '2024-01-01'
+  link: https://doi.org/g8z8td
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.enbuild.2024.114071
+  title: 'Opening the Black Box: Towards inherently interpretable energy data imputation
+    models using building physics insight'
+  authors:
+  - Antonio Liguori
+  - Matias Quintana
+  - Chun Fu
+  - Clayton Miller
+  - "J\xE9r\xF4me Frisch"
+  - Christoph van Treeck
+  publisher: Energy and Buildings
+  date: '2024-05-01'
+  link: https://doi.org/hcfrw3
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arXiv.2411.08734
+  title: 'Recommender systems and reinforcement learning for human-building interaction
+    and context-aware support: A text mining-driven review of scientific literature'
+  authors:
+  - Wenhao Zhang
+  - Matias Quintana
+  - Clayton Miller
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/hcfrw4
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arXiv.2409.19005
+  title: What is a Digital Twin Anyway? Deriving the Definition for the Built Environment
+    from over 15,000 Scientific Publications
+  authors:
+  - Mahmoud Abdelrahman
+  - Edgardo Macatulad
+  - Binyu Lei
+  - Matias Quintana
+  - Clayton Miller
+  - Filip Biljecki
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/hcfrw5
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arXiv.2412.18641
+  title: 'ZenSVI: An Open-Source Software for the Integrated Acquisition, Processing
+    and Analysis of Street View Imagery Towards Scalable Urban Science'
+  authors:
+  - Koichi Ito
+  - Yihan Zhu
+  - Mahmoud Abdelrahman
+  - Xiucheng Liang
+  - Zicheng Fan
+  - Yujun Hou
+  - Tianhong Zhao
+  - Rui Ma
+  - Kunihiko Fujiwara
+  - Jiani Ouyang
+  - Matias Quintana
+  - Filip Biljecki
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/hcfrw6
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.buildenv.2022.109685
+  title: "Cohort comfort models \u2014 Using occupant\u2019s similarity to predict\
+    \ personal thermal preference with less data"
+  authors:
+  - Matias Quintana
+  - Stefano Schiavon
+  - Federico Tartarini
+  - Joyce Kim
+  - Clayton Miller
+  publisher: Building and Environment
+  date: '2023-01-01'
+  link: https://doi.org/gr7v9c
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.enbuild.2023.112930
+  title: "Corrigendum to \u201CALDI++: Automatic and parameter-less discord and outlier\
+    \ detection for building energy load profiles\u201D [Energy Build. 265 (2022)\
+    \ 112096]"
+  authors:
+  - Matias Quintana
+  - Till Stoeckmann
+  - June Young Park
+  - Marian Turowski
+  - Veit Hagenmeyer
+  - Clayton Miller
+  publisher: Energy and Buildings
+  date: '2023-05-01'
+  link: https://doi.org/hcfrw7
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3560905.3567771
+  title: Green Mark Certified Buildings Metadata from Singapore
+  authors:
+  - Yi Ting Teo
+  - Matias Quintana
+  - Muhammad Zikry Bin Sabarudin
+  - Charlene Tan
+  - Adrian Chong
+  - Clayton Miller
+  publisher: Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems
+  date: '2022-11-06'
+  link: https://doi.org/hcfrw8
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3600100.3626633
+  title: Enhancing Classification of Energy Meters with Limited Labels using a Semi-Supervised
+    Generative Model
+  authors:
+  - Chun Fu
+  - Hussain Kazmi
+  - Matias Quintana
+  - Clayton Miller
+  publisher: Proceedings of the 10th ACM International Conference on Systems for Energy-Efficient
+    Buildings, Cities, and Transportation
+  date: '2023-11-15'
+  link: https://doi.org/hcfrw9
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:23318422
+  title: ISSN 2331-8422 - ArXiv.org
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/23318422
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3600100.3626259
+  title: 'From Personal Comfort to District Performance: Using Smartwatch and WiFi
+    Data for Occupant-Driven Operation'
+  authors:
+  - "Mart\xEDn Mosteiro-Romero"
+  - Matias Quintana
+  - Clayton Miller
+  - Rudi Stouffs
+  publisher: Proceedings of the 10th ACM International Conference on Systems for Energy-Efficient
+    Buildings, Cities, and Transportation
+  date: '2023-11-15'
+  link: https://doi.org/hcfrxb
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3600100.3626269
+  title: 'Introducing the Cool, Quiet City Competition: Predicting Smartwatch-Reported
+    Heat and Noise with Digital Twin Metrics'
+  authors:
+  - Clayton Miller
+  - Matias Quintana
+  - Mario Frei
+  - Yun Xuan Chua
+  - Chun Fu
+  - Bianca Picchetti
+  - Winston Yap
+  - Adrian Chong
+  - Filip Biljecki
+  publisher: Proceedings of the 10th ACM International Conference on Systems for Energy-Efficient
+    Buildings, Cities, and Transportation
+  date: '2023-11-15'
+  link: https://doi.org/hcfrxc
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1742-6596/2600/13/132008
+  title: Leveraging campus-scale Wi-Fi data for activity-based occupant modeling in
+    urban energy applications
+  authors:
+  - "Mart\xEDn Mosteiro-Romero"
+  - Clayton Miller
+  - Matias Quintana
+  - Adrian Chong
+  - Rudi Stouffs
+  publisher: 'Journal of Physics: Conference Series'
+  date: '2023-11-01'
+  link: https://doi.org/hcfrxd
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arXiv.2311.16632
+  title: 'Opening the Black Box: Towards inherently interpretable energy data imputation
+    models using building physics insight'
+  authors:
+  - Antonio Liguori
+  - Matias Quintana
+  - Chun Fu
+  - Clayton Miller
+  - "J\xE9r\xF4me Frisch"
+  - Christoph van Treeck
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/hcfrxf
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.buildenv.2023.110435
+  title: Ten questions concerning reinforcement learning for building energy management
+  authors:
+  - Zoltan Nagy
+  - Gregor Henze
+  - Sourav Dey
+  - Javier Arroyo
+  - Lieve Helsen
+  - Xiangyu Zhang
+  - Bingqing Chen
+  - Kadir Amasyali
+  - Kuldeep Kurte
+  - Ahmed Zamzam
+  - Helia Zandi
+  - "J\xE1n Drgo\u0148a"
+  - Matias Quintana
+  - Steven McCullogh
+  - June Young Park
+  - Han Li
+  - Tianzhen Hong
+  - Silvio Brandi
+  - Giuseppe Pinto
+  - Alfonso Capozzoli
+  - Draguna Vrabie
+  - "Mario Berg\xE9s"
+  - Kingsley Nweye
+  - Thibault Marzullo
+  - Andrey Bernstein
+  publisher: Building and Environment
+  date: '2023-08-01'
+  link: https://doi.org/gt8fck
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1742-6596/2600/3/032003
+  title: "The Building Data Genome Directory \u2013 An open, comprehensive data sharing\
+    \ platform for building performance research"
+  authors:
+  - Xiaoyu Jin
+  - Chun Fu
+  - Hussain Kazmi
+  - Atilla Balint
+  - Ada Canaydin
+  - Matias Quintana
+  - Filip Biljecki
+  - Fu Xiao
+  - Clayton Miller
+  publisher: 'Journal of Physics: Conference Series'
+  date: '2023-11-01'
+  link: https://doi.org/hcfrxg
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1742-6596/2600/14/142009
+  title: Utilizing wearable technology to characterize and facilitate occupant collaborations
+    in flexible workspaces
+  authors:
+  - Kristi Maisha
+  - Mario Frei
+  - Matias Quintana
+  - Yun Xuan Chua
+  - Rishee Jain
+  - Clayton Miller
+  publisher: 'Journal of Physics: Conference Series'
+  date: '2023-11-01'
+  link: https://doi.org/hcfrxh
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5281/zenodo.7179616
+  title: 'Dataset: Green Mark certified buildings metadata from Singapore'
+  authors:
+  - Yi Ting Teo
+  - Matias Quintana
+  - Muhammad Zikry Bin Sabarudin
+  - Charlene Tan
+  - Adrian Chong
+  - Clayton Miller
+  publisher: Zenodo
+  date: '2022-10-10'
+  link: https://doi.org/hcfrxj
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5281/zenodo.7179617
+  title: 'Dataset: Green Mark certified buildings metadata from Singapore'
+  authors:
+  - Yi Ting Teo
+  - Matias Quintana
+  - Muhammad Zikry Bin Sabarudin
+  - Charlene Tan
+  - Adrian Chong
+  - Clayton Miller
+  publisher: Zenodo
+  date: '2022-10-10'
+  link: https://doi.org/hcfrxk
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.enbuild.2022.112096
+  title: 'ALDI++: Automatic and parameter-less discord and outlier detection for building
+    energy load profiles'
+  authors:
+  - Matias Quintana
+  - Till Stoeckmann
+  - June Young Park
+  - Marian Turowski
+  - Veit Hagenmeyer
+  - Clayton Miller
+  publisher: Energy and Buildings
+  date: '2022-06-01'
+  link: https://doi.org/hcfrxm
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arXiv.2203.06618
+  title: 'ALDI++: Automatic and parameter-less discord and outlier detection for building
+    energy load profiles'
+  authors:
+  - Matias Quintana
+  - Till Stoeckmann
+  - June Young Park
+  - Marian Turowski
+  - Veit Hagenmeyer
+  - Clayton Miller
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/hcfrxn
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arXiv.2208.03078
+  title: Cohort comfort models -- Using occupants' similarity to predict personal
+    thermal preference with less data
+  authors:
+  - Matias Quintana
+  - Stefano Schiavon
+  - Federico Tartarini
+  - Joyce Kim
+  - Clayton Miller
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/hcfrxp
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3563357.3566167
+  title: ComfortLearn
+  authors:
+  - Matias Quintana
+  - Zoltan Nagy
+  - Federico Tartarini
+  - Stefano Schiavon
+  - Clayton Miller
+  publisher: Proceedings of the 9th ACM International Conference on Systems for Energy-Efficient
+    Buildings, Cities, and Transportation
+  date: '2022-11-09'
+  link: https://doi.org/hcfrxq
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3563357.3564077
+  title: From model-centric to data-centric
+  authors:
+  - Sicheng Zhan
+  - Matias Quintana
+  - Clayton Miller
+  - Adrian Chong
+  publisher: Proceedings of the 9th ACM International Conference on Systems for Energy-Efficient
+    Buildings, Cities, and Transportation
+  date: '2022-11-09'
+  link: https://doi.org/hcfrxr
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/ina.13160
+  title: "Personal comfort models based on a 6\u2010month experiment using environmental\
+    \ parameters and data from wearables"
+  authors:
+  - Federico Tartarini
+  - Stefano Schiavon
+  - Matias Quintana
+  - Clayton Miller
+  publisher: Indoor Air
+  date: '2022-11-01'
+  link: https://doi.org/gv32jq
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Smartwatch-based ecological momentary assessments for occupant wellness and
+    privacy in buildings
+  publisher: 17th International Conference on Indoor Air Quality and Climate Indoor
+    AIR 2022
+  date: '2026-03-17'
+  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-85159153844&partnerID=MN8TOARS
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arXiv.2208.06080
+  title: Smartwatch-based ecological momentary assessments for occupant wellness and
+    privacy in buildings
+  authors:
+  - Clayton Miller
+  - Renee Christensen
+  - Jin Kai Leong
+  - Mahmoud Abdelrahman
+  - Federico Tartarini
+  - Matias Quintana
+  - "Andre Matthias M\xFCller"
+  - Mario Frei
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/g674j2
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3563357.3566135
+  title: Towards smartwatch-driven just-in-time adaptive interventions (JITAI) for
+    building occupants
+  authors:
+  - Clayton Miller
+  - Yun Xuan Chua
+  - Mario Frei
+  - Matias Quintana
+  publisher: Proceedings of the 9th ACM International Conference on Systems for Energy-Efficient
+    Buildings, Cities, and Transportation
+  date: '2022-11-09'
+  link: https://doi.org/hcfrxs
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3486611.3492386
+  title: Cohort-based personal comfort models for HVAC occupant-centric control
+  authors:
+  - Matias Quintana
+  publisher: Proceedings of the 8th ACM International Conference on Systems for Energy-Efficient
+    Buildings, Cities, and Transportation
+  date: '2021-11-17'
+  link: https://doi.org/hcfrxt
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12273-020-0626-1
+  title: 'Islands of misfit buildings: Detecting uncharacteristic electricity use
+    behavior using load shape clustering'
+  authors:
+  - Matias Quintana
+  - Pandarasamy Arjunan
+  - Clayton Miller
+  publisher: Building Simulation
+  date: '2020-04-04'
+  link: https://doi.org/hcfrxv
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3485730.3493693
+  title: Longitudinal personal thermal comfort preference data in the wild
+  authors:
+  - Matias Quintana
+  - Mahmoud Abdelrahman
+  - Mario Frei
+  - Federico Tartarini
+  - Clayton Miller
+  publisher: Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems
+  date: '2021-11-15'
+  link: https://doi.org/hcfrxw
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1748-9326/ABD130
+  title: 'Project Coolbit: can your watch predict heat stress and thermal comfort
+    sensation?'
+  authors:
+  - Negin Nazarian
+  - Sijie Liu
+  - Manon Kohler
+  - Jason K W Lee
+  - Clayton Miller
+  - Winston T L Chow
+  - Sharifah Badriyah Alhadad
+  - Alberto Martilli
+  - Matias Quintana
+  - Lindsey Sunden
+  - Leslie K Norford
+  publisher: Environmental Research Letters
+  date: '2021-02-23'
+  link: https://doi.org/gttvhx
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1742-6596/2042/1/012041
+  title: "The Internet-of-Buildings (IoB) \u2014 Digital twin convergence of wearable\
+    \ and IoT data with GIS/BIM"
+  authors:
+  - Clayton Miller
+  - Mahmoud Abdelrahman
+  - Adrian Chong
+  - Filip Biljecki
+  - Matias Quintana
+  - Mario Frei
+  - Michael Chew
+  - Daniel Wong
+  publisher: 'Journal of Physics: Conference Series'
+  date: '2021-11-01'
+  link: https://doi.org/gn2f56
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3486611.3491126
+  title: The second ACM SIGEnergy workshop on reinforcement learning for energy management
+    in buildings &amp; cities (RLEM)
+  authors:
+  - Zoltan Nagy
+  - June Young Park
+  - Jan Drgona
+  - Matias Quintana
+  publisher: Proceedings of the 8th ACM International Conference on Systems for Energy-Efficient
+    Buildings, Cities, and Transportation
+  date: '2021-11-17'
+  link: https://doi.org/hcfrxx
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/buildings10100174
+  title: "Humans-as-a-Sensor for Buildings\u2014Intensive Longitudinal Indoor Comfort\
+    \ Models"
+  authors:
+  - Prageeth Jayathissa
+  - Matias Quintana
+  - Mahmoud Abdelrahman
+  - Clayton Miller
+  publisher: Buildings
+  date: '2020-10-01'
+  link: https://doi.org/gr5qfz
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Balancing thermal comfort datasets: We GAN, but should we?'
+  publisher: Proceedings of the 7th ACM International Conference on Systems for Energy-Efficient
+    Buildings, Cities, and Transportation
+  date: '2021-03-29'
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3408308.3427612
+  title: Balancing thermal comfort datasets
+  authors:
+  - Matias Quintana
+  - Stefano Schiavon
+  - Kwok Wai Tham
+  - Clayton Miller
+  publisher: Proceedings of the 7th ACM International Conference on Systems for Energy-Efficient
+    Buildings, Cities, and Transportation
+  date: '2020-11-18'
+  link: https://doi.org/hcfrxz
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:PPRN:19675090
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:19675090
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arxiv.2009.13154
+  title: 'Balancing thermal comfort datasets: We GAN, but should we?'
+  authors:
+  - Matias Quintana
+  - Stefano Schiavon
+  - Kwok Wai Tham
+  - Clayton Miller
+  publisher: arXiv
+  date: '2020-01-01'
+  link: https://doi.org/hcfrx2
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Differences in thermal comfort state transitional time among comfort preference
+    groups
+  publisher: '16th Conference of the International Society of Indoor Air Quality and
+    Climate: Creative and Smart Solutions for Better Built Environments, Indoor Air
+    2020'
+  date: '2022-06-02'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85101630197&partnerID=MN8TOARS
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arxiv.2007.02014
+  title: 'Humans-as-a-sensor for buildings: Intensive longitudinal indoor comfort
+    models'
+  authors:
+  - Prageeth Jayathissa
+  - Matias Quintana
+  - Mahmoud Abdelrahman
+  - Clayton Miller
+  publisher: arXiv
+  date: '2020-01-01'
+  link: https://doi.org/hcfrx3
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3359427.3361915
+  title: Dataset
+  authors:
+  - Sirajum Munir
+  - Jonathan Francis
+  - Matias Quintana
+  - Nadine von Frankenberg
+  - "Mario Berg\xE9s"
+  publisher: Proceedings of the 2nd Workshop on Data Acquisition To Analysis
+  date: '2019-11-10'
+  link: https://doi.org/hcfrx4
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3359427.3361916
+  title: Dataset
+  authors:
+  - Fabricio Flores
+  - Sirajum Munir
+  - Matias Quintana
+  - Anand Krishnan Prakash
+  - "Mario Berg\xE9s"
+  publisher: Proceedings of the 2nd Workshop on Data Acquisition To Analysis
+  date: '2019-11-10'
+  link: https://doi.org/gqcqr8
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Is your clock-face cozie ? A smartwatch methodology for the in-situ collection
+    of occupant comfort data
+  publisher: CISBAT2019 Climate Resilient Buildings - Energy Efficiency & Renewables
+    in the Digital Era
+  date: '2020-04-19'
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1742-6596/1343/1/012145
+  title: Is your clock-face cozie? A smartwatch methodology for the in-situ collection
+    of occupant comfort data
+  authors:
+  - Prageeth Jayathissa
+  - Matias Quintana
+  - Tapeesh Sood
+  - Negin Nazarian
+  - Clayton Miller
+  publisher: 'Journal of Physics: Conference Series'
+  date: '2019-11-01'
+  link: https://doi.org/hcfrx5
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.13140/RG.2.2.11489.86883
+  title: 'Islands of misfit buildings: Detecting uncharacteristic electricity use
+    behavior using load shape clustering'
+  authors:
+  - Matias Quintana
+  - Clayton Miller
+  publisher: Unpublished
+  date: '2019-01-01'
+  link: https://doi.org/hcfrx6
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3360322.3360858
+  title: OccuTherm
+  authors:
+  - Jonathan Francis
+  - Matias Quintana
+  - Nadine von Frankenberg
+  - Sirajum Munir
+  - "Mario Berg\xE9s"
+  publisher: Proceedings of the 6th ACM International Conference on Systems for Energy-Efficient
+    Buildings, Cities, and Transportation
+  date: '2019-11-13'
+  link: https://doi.org/hcfrx7
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3360322.3361016
+  title: Towards Class-Balancing Human Comfort Datasets with GANs
+  authors:
+  - Matias Quintana
+  - Clayton Miller
+  publisher: Proceedings of the 6th ACM International Conference on Systems for Energy-Efficient
+    Buildings, Cities, and Transportation
+  date: '2019-11-13'
+  link: https://doi.org/hcfrx8
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Project CoolBit Updates : Personal Thermal Comfort Assessments using Wearable
+    Devices'
+  publisher: Geophysical Research Abstracts
+  date: '2020-04-19'
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.13140/RG.2.2.33265.12644
+  title: 'The SDE4 Learning Trail: Crowdsourcing occupant comfort feedback at a net-zero
+    energy building'
+  authors: []
+  publisher: Unpublished
+  date: '2019-01-01'
+  link: https://doi.org/hcfrx9
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1742-6596/1343/1/012141
+  title: 'The SDE4 Learning Trail: Crowdsourcing occupant comfort feedback at a net-zero
+    energy building'
+  authors:
+  - Tapeesh Sood
+  - Matias Quintana
+  - Prageeth Jayathissa
+  - Mahmoud AbdelRahman
+  - Clayton Miller
+  publisher: 'Journal of Physics: Conference Series'
+  date: '2019-11-01'
+  link: https://doi.org/hcfrzb
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.13140/RG.2.2.24955.46885
+  title: 'Twenty years of building simulation trends: Text mining and topic modeling
+    of the Bldg-sim email list archive'
+  authors:
+  - Clayton Miller
+  - Matias Quintana
+  - Jason Glazer
+  publisher: Unpublished
+  date: '2019-01-01'
+  link: https://doi.org/hcfrzc
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:25222708
+  title: ISSN 2522-2708 - Building Simulation Conference proceedings
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/25222708
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3137133.3141441
+  title: Design and implementation of a low-cost arduino-based high-frequency AC waveform
+    meter board for the raspberry pi
+  authors:
+  - Matias Quintana
+  - Henning Lange
+  - "Mario Berg\xE9s"
+  publisher: Proceedings of the 4th ACM International Conference on Systems for Energy-Efficient
+    Built Environments
+  date: '2017-11-08'
+  link: https://doi.org/hcfrzd
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3137133.3141461
+  title: FORK
+  authors:
+  - Sirajum Munir
+  - Le Tran
+  - Jonathan Francis
+  - Charles Shelton
+  - Ripudaman Singh Arora
+  - Craig Hesling
+  - Matias Quintana
+  - Anand Krishnan Prakash
+  - Anthony Rowe
+  - Mario Berges
+  publisher: Proceedings of the 4th ACM International Conference on Systems for Energy-Efficient
+    Built Environments
+  date: '2017-11-08'
+  link: https://doi.org/hcfrzf
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000455871900031
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000455871900031
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/DigitalHeritage.2015.7413856
+  title: "A comparison of digital modelling techniques analyzing a section of Qhapaq\
+    \ \xD1an"
+  authors:
+  - Saul Retamozo
+  - Diego Arce
+  - Rafael Aguilar
+  - Fernando Zvietcovich
+  - Matias Quintana
+  - Benjamin Castaneda
+  - Sergio Angeles
+  publisher: 2015 Digital Heritage
+  date: '2015-09-01'
+  link: https://doi.org/hcfrzg
+  orcid: 0000-0002-0486-221X
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Application Of Kinect To 3D Reconstruction Of Archaeological Walls
+  publisher: EUROMED2014, Proceedings of the Interational Conference on Cultural Heritage
+    Documentation, Preservation and Protection
+  date: '2020-04-19'
+  orcid: 0000-0002-0486-221X
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -219,9 +1185,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -238,21 +1201,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
