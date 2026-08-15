@@ -47,6 +47,12 @@ header a {
   height: 100%;
 }
 
+// a raster logo can't inherit currentColor the way an inlined svg does,
+// so flip the black lockup to white when dark mode is on
+[data-dark="true"] .logo img {
+  filter: invert(1);
+}
+
 .title-text {
   display: flex;
   justify-content: flex-start;

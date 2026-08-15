@@ -43,9 +43,9 @@ def main(entry):
         id_type = get_safe(_id, "external-id-type", "")
 
         # is id of certain type
-        # types = ["doi"]
-        # if id_type not in types:
-        #     return False
+        types = ["doi"]
+        if id_type not in types:
+            return False
 
         # is id citable by manubot
         if id_type not in manubot_citable:
@@ -85,8 +85,8 @@ def main(entry):
         id_value = get_safe(_id, "external-id-value", "")
 
         # if no available ids, skip source completely
-        # if not id_type or not id_value:
-        #     continue
+        if not id_type or not id_value:
+            continue
 
         # create source
         source = {}
