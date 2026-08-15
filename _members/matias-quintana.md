@@ -1,9 +1,9 @@
 ---
 name: Matias Quintana
 image: images/Matias.jpg
-description: Incoming Assisant Professor
+description: Incoming Assistant Professor
 affiliation: Singapore-ETH Centre
-role: pi
+role: principal-investigator
 aliases:
   - M Quintana
 links:
@@ -11,7 +11,7 @@ links:
   linkedin: matiasqr
   github: matqr
   orcid: 0000-0002-0486-221X
-  google-scholar: Ott9sHkAAAAJ&hl=en # galue after `user=`
+  google-scholar: Ott9sHkAAAAJ # value after `user=`
 interests:
   - Computer vision
   - Energy time series
@@ -31,7 +31,7 @@ education:
 ---
 
 Dr Matias Quintana is an incoming faculty at the College of Integrative Studies (CIS) at the Singapore Management University (SMU).
-He is the founder and the principal investigator of the [SMU Computational Urban Systems Lab]().
+He is the founder and the principal investigator of the [SMU Computational Urban Systems Lab](/).
 
 Born and raised in the country with most [world's leading culinary destination awards](https://www.worldtravelawards.com/award-worlds-leading-culinary-destination-2024), Perú, Matias has vast international experience having worked in North and South America, Europe, Asia, and Micronesia.
 His research converges urban data science, human-building interaction, and building energy analytics to support bidirectional digital twins and data-driven urban planning.
