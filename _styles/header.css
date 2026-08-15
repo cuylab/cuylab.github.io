@@ -35,6 +35,10 @@ header a {
   height: 100%;
 }
 
+[data-dark=true] .logo img {
+  filter: invert(1);
+}
+
 .title-text {
   display: flex;
   justify-content: flex-start;
