@@ -482,15 +482,6 @@
   orcid: 0000-0002-0486-221X
   plugin: orcid.py
   file: orcid.yaml
-- id: issn:23318422
-  title: ISSN 2331-8422 - ArXiv.org
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/23318422
-  orcid: 0000-0002-0486-221X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1145/3600100.3626259
   title: 'From Personal Comfort to District Performance: Using Smartwatch and WiFi
     Data for Occupant-Driven Operation'
@@ -746,15 +737,6 @@
   orcid: 0000-0002-0486-221X
   plugin: orcid.py
   file: orcid.yaml
-- title: Smartwatch-based ecological momentary assessments for occupant wellness and
-    privacy in buildings
-  publisher: 17th International Conference on Indoor Air Quality and Climate Indoor
-    AIR 2022
-  date: '2026-03-17'
-  link: https://www.scopus.com/inward/record.url?eid=2-s2.0-85159153844&partnerID=MN8TOARS
-  orcid: 0000-0002-0486-221X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.48550/arXiv.2208.06080
   title: Smartwatch-based ecological momentary assessments for occupant wellness and
     privacy in buildings
@@ -894,13 +876,6 @@
   orcid: 0000-0002-0486-221X
   plugin: orcid.py
   file: orcid.yaml
-- title: 'Balancing thermal comfort datasets: We GAN, but should we?'
-  publisher: Proceedings of the 7th ACM International Conference on Systems for Energy-Efficient
-    Buildings, Cities, and Transportation
-  date: '2021-03-29'
-  orcid: 0000-0002-0486-221X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1145/3408308.3427612
   title: Balancing thermal comfort datasets
   authors:
@@ -915,15 +890,6 @@
   orcid: 0000-0002-0486-221X
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:PPRN:19675090
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:19675090
-  orcid: 0000-0002-0486-221X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.48550/arxiv.2009.13154
   title: 'Balancing thermal comfort datasets: We GAN, but should we?'
   authors:
@@ -934,16 +900,6 @@
   publisher: arXiv
   date: '2020-01-01'
   link: https://doi.org/hcfrx2
-  orcid: 0000-0002-0486-221X
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Differences in thermal comfort state transitional time among comfort preference
-    groups
-  publisher: '16th Conference of the International Society of Indoor Air Quality and
-    Climate: Creative and Smart Solutions for Better Built Environments, Indoor Air
-    2020'
-  date: '2022-06-02'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85101630197&partnerID=MN8TOARS
   orcid: 0000-0002-0486-221X
   plugin: orcid.py
   file: orcid.yaml
@@ -986,14 +942,6 @@
   publisher: Proceedings of the 2nd Workshop on Data Acquisition To Analysis
   date: '2019-11-10'
   link: https://doi.org/gqcqr8
-  orcid: 0000-0002-0486-221X
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Is your clock-face cozie ? A smartwatch methodology for the in-situ collection
-    of occupant comfort data
-  publisher: CISBAT2019 Climate Resilient Buildings - Energy Efficiency & Renewables
-    in the Digital Era
-  date: '2020-04-19'
   orcid: 0000-0002-0486-221X
   plugin: orcid.py
   file: orcid.yaml
@@ -1051,13 +999,6 @@
   orcid: 0000-0002-0486-221X
   plugin: orcid.py
   file: orcid.yaml
-- title: 'Project CoolBit Updates : Personal Thermal Comfort Assessments using Wearable
-    Devices'
-  publisher: Geophysical Research Abstracts
-  date: '2020-04-19'
-  orcid: 0000-0002-0486-221X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.13140/RG.2.2.33265.12644
   title: 'The SDE4 Learning Trail: Crowdsourcing occupant comfort feedback at a net-zero
     energy building'
@@ -1096,15 +1037,6 @@
   orcid: 0000-0002-0486-221X
   plugin: orcid.py
   file: orcid.yaml
-- id: issn:25222708
-  title: ISSN 2522-2708 - Building Simulation Conference proceedings
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/25222708
-  orcid: 0000-0002-0486-221X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1145/3137133.3141441
   title: Design and implementation of a low-cost arduino-based high-frequency AC waveform
     meter board for the raspberry pi
@@ -1139,15 +1071,6 @@
   orcid: 0000-0002-0486-221X
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000455871900031
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000455871900031
-  orcid: 0000-0002-0486-221X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1109/DigitalHeritage.2015.7413856
   title: "A comparison of digital modelling techniques analyzing a section of Qhapaq\
     \ \xD1an"
@@ -1165,68 +1088,3 @@
   orcid: 0000-0002-0486-221X
   plugin: orcid.py
   file: orcid.yaml
-- title: Application Of Kinect To 3D Reconstruction Of Archaeological Walls
-  publisher: EUROMED2014, Proceedings of the Interational Conference on Cultural Heritage
-    Documentation, Preservation and Protection
-  date: '2020-04-19'
-  orcid: 0000-0002-0486-221X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
