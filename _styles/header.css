@@ -27,12 +27,15 @@ header a {
 }
 
 .logo {
-  height: 40px;
+  height: 44px;
+  max-width: 100%;
 }
 
 .logo > * {
   width: unset;
   height: 100%;
+  max-width: 100%;
+  object-fit: contain;
 }
 
 [data-dark=true] .logo img {
@@ -133,7 +136,7 @@ header[data-big] .home {
   flex-grow: 0;
 }
 header[data-big] .logo {
-  height: 80px;
+  height: 120px;
   flex-shrink: 0;
 }
 header[data-big] .title-text {
