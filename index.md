@@ -3,8 +3,10 @@
 
 # Computational Urban Systems (CUY) Lab
 
-The Computational Urban Systems Lab is a research group at the Singapore Management University.
-Our focus is human-centric urban informatics.
+A research group at the Singapore Management University (SMU).
+
+Our work focuses on technical and engineering solutions to urban challenges with a human-centric lens.
+We are developing software, datasets, and AI solutions that puts together different dimensions of cities to better quantify and understand how we experience them.
 
 {% include section.html %}
 
