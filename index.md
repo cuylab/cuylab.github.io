@@ -30,7 +30,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/CUY_Mascot (Research).png"
   link="publications"
   title="Our Research"
   text=text
@@ -63,7 +63,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-"Some places are not themselves; they are the people that they’re filled with".
+__"Some places are not themselves; they are the people that they’re filled with"__.
 Meet our multidisciplinary research group.
 
 {%
@@ -79,7 +79,7 @@ Meet our multidisciplinary research group.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/CUY_Mascot (Milestone).png"
   link="people"
   title="Our Team"
   text=text
