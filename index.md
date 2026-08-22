@@ -15,7 +15,7 @@ Established and directed by [Matias Quintana](https://cuylab.github.io/members/m
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Software, data, and much more! Check out our published work and other team creations.
 
 {%
   include button.html
@@ -38,7 +38,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Stay up to date with our latest adventures!
 
 {%
   include button.html
@@ -53,7 +53,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/CUY_Mascot (News).jpg"
   link="projects"
   title="Our Projects"
   flip=true
