@@ -15,6 +15,31 @@ Established and directed by [Matias Quintana](https://cuylab.github.io/members/m
 
 {% capture text %}
 
+Stay up to date with our latest adventures!
+
+{%
+  include button.html
+  link="projects"
+  text="Browse our projects"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/CUY_Mascot (News).png"
+  link="projects"
+  title="Our Projects"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+{% capture text %}
+
 Software, data, and much more! Check out our published work and other team creations.
 
 {%
@@ -33,31 +58,6 @@ Software, data, and much more! Check out our published work and other team creat
   image="images/CUY_Mascot (Research).png"
   link="publications"
   title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-
-Stay up to date with our latest adventures!
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/CUY_Mascot (News).jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
   text=text
 %}
 
