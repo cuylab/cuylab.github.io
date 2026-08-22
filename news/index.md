@@ -5,7 +5,7 @@ nav:
 
 ---
 
-# {% include icon.html icon="fa-solid  fa-newspaper-o" %}News
+# {% include icon.html icon="fa-solid  fa-newspaper" %}News
 
 {% include section.html %}
 
