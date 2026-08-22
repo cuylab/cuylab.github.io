@@ -13,6 +13,16 @@ Established and directed by [Matias Quintana](https://cuylab.github.io/members/m
 
 ## Highlights
 
+{%
+  include feature.html
+  image="images/CUY_Mascot (News).png"
+  link="projects"
+  title="Our Projects"
+  flip=true
+  style="bare"
+  text=text
+%}
+
 {% capture text %}
 
 Stay up to date with our latest adventures!
@@ -27,16 +37,6 @@ Stay up to date with our latest adventures!
 %}
 
 {% endcapture %}
-
-{%
-  include feature.html
-  image="images/CUY_Mascot (News).png"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
 
 {% capture text %}
 
