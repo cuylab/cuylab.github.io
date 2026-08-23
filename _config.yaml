@@ -8,6 +8,10 @@ header:
 footer:
 proofer: false
 
+# adding custom domain
+url: "https://cuylab.org"
+baseurl: ""
+
 # site social media and other links
 links:
   github: cuylab
