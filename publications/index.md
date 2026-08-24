@@ -7,8 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our work ranges from methodological contributions, datasets, software tools, and tangible soltutions to urban problems.
+Below are the publications from our research group.
+You can find our director [Matias Quintana](https://cuylab.org/members/matias-quintana.html)'s full publication list [here](https://scholar.google.com/citations?user=Ott9sHkAAAAJ&hl=en).
 
 {% include section.html %}
 
