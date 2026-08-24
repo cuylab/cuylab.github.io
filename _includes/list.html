@@ -5,6 +5,10 @@
   | data_filter: include.filter
 %}
 
+{% if include.data == "citations" %}
+  {% assign data = data | where_exp: "item", "item.date >= '2017-01-01'" %}
+{% endif %}
+
 {% assign years = data
   | group_by_exp: "d", "d.date | date: '%Y'"
   | sort: "name"
