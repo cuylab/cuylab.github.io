@@ -1,7 +1,7 @@
 ---
 ---
 
-# Computational Urban Systems (CUY, <span style="text-transform: none;">pronounced [koo-EE](https://www.spanishdict.com/translate/cuy)</span>) Lab
+# Computational Urban Systems (CUY) Lab<br><span style="text-transform: none;">pronounced [koo-EE](https://www.spanishdict.com/translate/cuy)</span>)
 
 ## About us
 A research group proudly based at the [College of Integrative Studies](https://cis.smu.edu.sg/) of the [Singapore Management University](https://www.smu.edu.sg/).
