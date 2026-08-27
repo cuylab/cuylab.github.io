@@ -6,8 +6,10 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
+{: .center}
 
 Check out our ongoing projects, softwares, and datasets.
+{: .center}
 
 {% include tags.html tags="publication, resource, website" %}
 
