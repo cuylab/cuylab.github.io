@@ -1,7 +1,7 @@
 ---
 name: This could be you
 image: images/smoo-smoo.jpg
-affiliation: Interested? Contact us!
+affiliation: Interested? Click here!
 role: placeholder
 link: /join/
 ---
