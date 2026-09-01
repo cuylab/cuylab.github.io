@@ -11,7 +11,7 @@ nav:
 Check out our ongoing projects, softwares, and datasets.
 {: .center}
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="publication, resource" %}
 
 {% include search-info.html %}
 
