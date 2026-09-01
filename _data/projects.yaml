@@ -1,11 +1,8 @@
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title:  A wild CUY has appeared
+  subtitle: Our research group's mascot came to life
+  group:
+  image: images/CUY_Mascot (Primary).png
+  link:
+  description: Envisioned by our founder [Matias Quintana](https://cuylab.org/members/matias-quintana.html) and brought to life by the amazing local artist and tattooer [Wynn Gray](https://www.wynngray.com/), our research group mascot *CUY* is here! Paying homage to our founder's home country, Peru, and his upbringing, _cuy_ (pronounced koo-EE) is the word for guinea pig in Spanish and embodies the collaborative and hardworking attitude of our members!
+  repo:
   tags:
-    - resource
-    - software
-    - publication
