@@ -2,10 +2,15 @@
   cookie-consent banner + analytics loader.
 
   reads window.LAB_ANALYTICS (set in _includes/analytics.html from
-  _config.yaml). google analytics 4 and microsoft clarity are only
-  loaded once the visitor clicks "accept". the choice is remembered in
-  the "lab-consent" cookie for a year. window.showCookieSettings()
-  re-opens the banner so a visitor can change their mind.
+  _config.yaml). google analytics 4 and microsoft clarity load only
+  after consent. the choice is remembered in the "lab-consent" cookie
+  for a year. window.showCookieSettings() re-opens the banner so a
+  visitor can change their mind.
+
+  geo-gating: on first visit we look up the visitor's country via
+  cloudflare's trace endpoint. visitors in the EU/EEA, UK and
+  switzerland see the banner and must opt in. everyone else is opted in
+  automatically (no banner). if the lookup fails we show the banner.
 */
 
 {
@@ -98,11 +103,36 @@
   // let a footer link re-open the banner
   window.showCookieSettings = showBanner;
 
+  // countries where prior opt-in consent is required
+  const CONSENT_REQUIRED = new Set([
+    // EU 27
+    "AT", "BE", "BG", "HR", "CY", "CZ", "DK", "EE", "FI", "FR", "DE", "GR",
+    "HU", "IE", "IT", "LV", "LT", "LU", "MT", "NL", "PL", "PT", "RO", "SK",
+    "SI", "ES", "SE",
+    // EEA (non-EU) + UK + Switzerland
+    "IS", "LI", "NO", "GB", "CH",
+  ]);
+
+  const resolveFirstVisit = () => {
+    fetch("https://www.cloudflare.com/cdn-cgi/trace")
+      .then((r) => r.text())
+      .then((text) => {
+        const loc = (text.match(/loc=([A-Z]{2})/) || [])[1];
+        if (!loc || CONSENT_REQUIRED.has(loc)) {
+          showBanner();
+        } else {
+          setConsent("granted");
+          loadAnalytics();
+        }
+      })
+      .catch(showBanner);
+  };
+
   const onLoad = () => {
     if (!config) return;
     const consent = getConsent();
     if (consent === "granted") loadAnalytics();
-    else if (consent === null) showBanner();
+    else if (consent === null) resolveFirstVisit();
   };
 
   if (document.readyState === "loading")
