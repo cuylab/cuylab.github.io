@@ -1,5 +1,5 @@
 ---
-name: This could be you
+name: You!
 image: images/smoo-smoo.jpg
 affiliation: Interested? Click here!
 role: placeholder

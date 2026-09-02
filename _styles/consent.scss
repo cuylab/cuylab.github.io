@@ -1,0 +1,66 @@
+---
+---
+
+// cookie-consent banner — see _scripts/consent.js
+
+.consent-banner {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 10px 20px;
+  padding: 15px 20px;
+  background: var(--background-alt);
+  border-top: 1px solid var(--light-gray);
+  box-shadow: var(--shadow);
+  font-family: var(--body);
+}
+
+.consent-text {
+  max-width: 600px;
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: var(--compact);
+  color: var(--text);
+}
+
+.consent-buttons {
+  display: flex;
+  gap: 10px;
+  flex-shrink: 0;
+}
+
+.consent-banner button {
+  padding: 8px 15px;
+  border: 1px solid var(--primary);
+  border-radius: var(--rounded);
+  font: inherit;
+  font-family: var(--heading);
+  font-weight: var(--semi-bold);
+  transition: background var(--transition), color var(--transition);
+}
+
+.consent-accept {
+  background: var(--primary);
+  color: var(--background);
+
+  &:hover {
+    background: var(--text);
+    border-color: var(--text);
+  }
+}
+
+.consent-decline {
+  background: none;
+  color: var(--primary);
+
+  &:hover {
+    color: var(--text);
+    border-color: var(--text);
+  }
+}

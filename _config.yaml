@@ -16,6 +16,13 @@ baseurl: ""
 links:
   github: cuylab
   linkedin:
+
+# web analytics — leave blank to disable. Nothing loads until a visitor
+# opts in via the cookie-consent banner. See _includes/analytics.html.
+analytics:
+  google: "G-PY08VXPWRQ"  # GA4 Measurement ID
+  clarity: "ybvf97xskt"   # Microsoft Clarity project ID
+
 ### jekyll settings
 
 # front matter defaults

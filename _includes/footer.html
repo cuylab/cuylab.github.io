@@ -30,6 +30,12 @@
     <a href="https://github.com/greenelab/lab-website-template">
       Lab Website Template
     </a>
+    {% if site.analytics.google != "" or site.analytics.clarity != "" %}
+      &nbsp; | &nbsp;
+      <a href="#" onclick="showCookieSettings(); return false;">
+        Cookie settings
+      </a>
+    {% endif %}
   </div>
 
   <input
