@@ -3,8 +3,39 @@
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <!--
-  put your analytics (e.g. Google Analytics) tracking code here
+  Web analytics: Google Analytics 4 + Microsoft Clarity.
+
+  IDs are set in _config.yaml (analytics.google / analytics.clarity).
+  Nothing is loaded until the visitor opts in through the cookie-consent
+  banner — see _scripts/consent.js and _styles/consent.scss. When consent
+  is granted, consent.js reads window.LAB_ANALYTICS below and injects the
+  GA4 and Clarity tags. GA4 also runs in Consent Mode v2 (denied by
+  default) so no cookies are set beforehand.
 -->
+
+
+
+  <script>
+    window.LAB_ANALYTICS = {
+      ga: "G-PY08VXPWRQ",
+      clarity: "ybvf97xskt",
+    };
+    
+      // GA4 Consent Mode v2 — deny everything until the visitor opts in.
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("consent", "default", {
+        ad_storage: "denied",
+        ad_user_data: "denied",
+        ad_personalization: "denied",
+        analytics_storage: "denied",
+        wait_for_update: 500,
+      });
+    
+  </script>
+
 
   <!--
   put your search engine verification (e.g. Google Search Console) tag here
@@ -43,21 +74,21 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>This could be you | cuylab</title>
+<title>You! | cuylab</title>
 
 <link rel="icon" href="/images/CUY_Icon_white.png">
 
-<meta name="title" content="This could be you">
+<meta name="title" content="You!">
 <meta name="description" content="The Computational Urban Systems Lab is a research group at the Singapore Management University. Our focus is human-centric urban informatics.">
 
-<meta property="og:title" content="This could be you">
+<meta property="og:title" content="You!">
 <meta property="og:site_title" content="cuylab">
 <meta property="og:description" content="The Computational Urban Systems Lab is a research group at the Singapore Management University. Our focus is human-centric urban informatics.">
 <meta property="og:url" content="http://cuylab.org">
 <meta property="og:image" content="">
 <meta property="og:locale" content="en_US">
 
-<meta property="twitter:title" content="This could be you">
+<meta property="twitter:title" content="You!">
 <meta property="twitter:description" content="The Computational Urban Systems Lab is a research group at the Singapore Management University. Our focus is human-centric urban informatics.">
 <meta property="twitter:url" content="http://cuylab.org">
 <meta property="twitter:card" content="summary_large_image">
@@ -73,9 +104,9 @@
     
       "@type": "WebSite",
     
-    "name": "This could be you",
+    "name": "You!",
     "description": "The Computational Urban Systems Lab is a research group at the Singapore Management University. Our focus is human-centric urban informatics.",
-    "headline": "This could be you",
+    "headline": "You!",
     "publisher": {
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/images/CUY_Icon_white.png" }
@@ -156,6 +187,10 @@
 
   
     <link href="/_styles/cols.css" rel="stylesheet">
+  
+
+  
+    <link href="/_styles/consent.css" rel="stylesheet">
   
 
   
@@ -301,6 +336,8 @@
 
   <script src="/_scripts/anchors.js"></script>
 
+  <script src="/_scripts/consent.js"></script>
+
   <script src="/_scripts/dark-mode.js"></script>
 
   <script src="/_scripts/fetch-tags.js"></script>
@@ -411,14 +448,14 @@
 <div class="float">
   
 <div class="portrait-wrapper">
-  <a href="/join/" class="portrait" data-style="" aria-label="This could be you">
+  <a href="/join/" class="portrait" data-style="" aria-label="You">
     
 
     <img src="/images/smoo-smoo.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
       <span class="portrait-name">
-        This could be you
+        You!
       </span>
     
 
@@ -452,8 +489,8 @@
 
 
 <p class="center">
-  <a href="/publications/?search=%22This%20could%20be%20you%22%20">
-    Search for This could be you's papers on the Research page
+  <a href="/publications/?search=%22You!%22%20">
+    Search for You!'s papers on the Research page
   </a>
 </p>
 
@@ -461,8 +498,8 @@
 
 <!--
 <p class="center">
-  <a href="/blog/?search=This%20could%20be%20you">
-    See This could be you's posts on the Blog page
+  <a href="/blog/?search=You!">
+    See You!'s posts on the Blog page
   </a>
 </p>
 -->
@@ -521,6 +558,12 @@
     <a href="https://github.com/greenelab/lab-website-template">
       Lab Website Template
     </a>
+    
+        |  
+      <a href="#" onclick="showCookieSettings(); return false;">
+        Cookie settings
+      </a>
+    
   </div>
 
   <input type="checkbox" class="dark-toggle" data-tooltip="Dark mode" aria-label="toggle dark mode" oninput="onDarkToggleChange(event)">

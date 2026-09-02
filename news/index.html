@@ -3,8 +3,39 @@
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <!--
-  put your analytics (e.g. Google Analytics) tracking code here
+  Web analytics: Google Analytics 4 + Microsoft Clarity.
+
+  IDs are set in _config.yaml (analytics.google / analytics.clarity).
+  Nothing is loaded until the visitor opts in through the cookie-consent
+  banner — see _scripts/consent.js and _styles/consent.scss. When consent
+  is granted, consent.js reads window.LAB_ANALYTICS below and injects the
+  GA4 and Clarity tags. GA4 also runs in Consent Mode v2 (denied by
+  default) so no cookies are set beforehand.
 -->
+
+
+
+  <script>
+    window.LAB_ANALYTICS = {
+      ga: "G-PY08VXPWRQ",
+      clarity: "ybvf97xskt",
+    };
+    
+      // GA4 Consent Mode v2 — deny everything until the visitor opts in.
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("consent", "default", {
+        ad_storage: "denied",
+        ad_user_data: "denied",
+        ad_personalization: "denied",
+        analytics_storage: "denied",
+        wait_for_update: 500,
+      });
+    
+  </script>
+
 
   <!--
   put your search engine verification (e.g. Google Search Console) tag here
@@ -156,6 +187,10 @@
 
   
     <link href="/_styles/cols.css" rel="stylesheet">
+  
+
+  
+    <link href="/_styles/consent.css" rel="stylesheet">
   
 
   
@@ -340,6 +375,8 @@
 
   
 
+  
+
 
 <!-- include all css in styles folder -->
 
@@ -354,6 +391,8 @@
 
 
   <script src="/_scripts/anchors.js"></script>
+
+  <script src="/_scripts/consent.js"></script>
 
   <script src="/_scripts/dark-mode.js"></script>
 
@@ -521,7 +560,7 @@
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>September 01, 2026</span>
+      <span>September 02, 2026</span>
     </span>
   
 </div>
@@ -607,6 +646,12 @@ Paying homage to our founder’s upbringing and home country, Peru, cuy (pronoun
     <a href="https://github.com/greenelab/lab-website-template">
       Lab Website Template
     </a>
+    
+        |  
+      <a href="#" onclick="showCookieSettings(); return false;">
+        Cookie settings
+      </a>
+    
   </div>
 
   <input type="checkbox" class="dark-toggle" data-tooltip="Dark mode" aria-label="toggle dark mode" oninput="onDarkToggleChange(event)">
