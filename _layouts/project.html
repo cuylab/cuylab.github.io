@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+{% assign project = site.data.projects
+  | where: "id", page.project
+  | first
+%}
+
+{% include section.html %}
+
+{%
+  include button.html
+  link="projects/"
+  text="Back to Projects"
+  icon="fa-solid fa-arrow-left"
+  style="bare"
+%}
+
+<h1 class="center">{{ page.title | default: project.title }}</h1>
+
+{% if project.subtitle %}
+  <p class="center">{{ project.subtitle }}</p>
+{% endif %}
+
+{% if project.tags or project.repo %}
+  {% include tags.html tags=project.tags repo=project.repo %}
+{% endif %}
+
+{% include section.html %}
+
+{{ content }}
+
+{% if project.authors %}
+  {% include section.html %}
+
+  <h2 id="authors">Authors</h2>
+
+  {% for author in project.authors %}
+    {% include portrait.html lookup=author %}
+  {% endfor %}
+{% endif %}
+
+{% assign posts = site.posts
+  | where_exp: "post", "post.projects contains page.project"
+%}
+
+{% if posts.size > 0 %}
+  {% include section.html %}
+
+  <h2 id="news">News</h2>
+
+  {% for post in posts %}
+    {% include post-excerpt.html lookup=post.slug %}
+  {% endfor %}
+{% endif %}

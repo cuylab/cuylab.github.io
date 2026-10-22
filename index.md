@@ -4,7 +4,7 @@
 # Computational Urban Systems (CUY) Lab<br> (CUY <span style="text-transform: none;">is pronounced [koo-EE](https://www.spanishdict.com/translate/cuy)</span>)
 
 ## About us
-A research group proudly based at the [College of Integrative Studies](https://cis.smu.edu.sg/) of the [Singapore Management University](https://www.smu.edu.sg/).
+We are proudly based at the [College of Integrative Studies](https://cis.smu.edu.sg/) of the [Singapore Management University](https://www.smu.edu.sg/).
 
 Our work focuses on technical and engineering solutions to urban challenges with a human-centric lens.
 Established and directed by [Matias Quintana](https://cuylab.github.io/members/matias-quintana.html), we are developing software, datasets, and AI solutions that puts together different dimensions of cities to better quantify and understand how we experience them.

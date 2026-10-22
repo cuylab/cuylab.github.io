@@ -17,3 +17,20 @@ Check out our ongoing projects, softwares, and datasets.
 
 {% include section.html %}
 
+{% comment %}
+  all projects, newest first, by the internal `date` field (not rendered).
+  list.html is not used here because it adds year headings when dates are present.
+{% endcomment %}
+{% assign projects = site.data.projects | sort: "date" | reverse %}
+{% for project in projects %}
+  {%
+    include card.html
+    title=project.title
+    subtitle=project.subtitle
+    image=project.image
+    link=project.link
+    description=project.description
+    tags=project.tags
+    repo=project.repo
+  %}
+{% endfor %}

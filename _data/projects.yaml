@@ -1,8 +1,14 @@
-- title:  A wild CUY has appeared
-  subtitle: Our research group's mascot came to life
-  group:
-  image: images/CUY_Mascot (Primary).png
-  link:
-  description: Envisioned by our founder [Matias Quintana](https://cuylab.org/members/matias-quintana.html) and brought to life by the amazing local artist and tattooer [Wynn Gray](https://www.wynngray.com/), our research group mascot *CUY* is here! Paying homage to our founder's home country, Peru, and his upbringing, _cuy_ (pronounced koo-EE) is the word for guinea pig in Spanish and embodies the collaborative and hardworking attitude of our members!
+# id: unique slug; news posts link to a project by listing this id under `projects:` in their front matter
+# date: internal only, used to sort the Projects page (newest first); not rendered on the site
+# authors: slugs of files in _members (e.g. matias-quintana)
+- id: project-tbd
+  title: Project Title (TBD)
+  subtitle: Short one-line subtitle (TBD)
+  date: 2026-10-14
+  image: images/CUY_Mascot (Research).png
+  link: projects/project-tbd.html
+  description: Placeholder description of the project. Replace with 1-3 sentences once the work is ready to be shared.
+  authors:
+    - matias-quintana
   repo:
   tags:
