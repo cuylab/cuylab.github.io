@@ -18,10 +18,10 @@ Check out our ongoing projects, softwares, and datasets.
 {% include section.html %}
 
 {% comment %}
-  all projects, newest first, by the internal `date` field (not rendered).
+  all non-hidden projects, newest first, by the internal `date` field (not rendered).
   list.html is not used here because it adds year headings when dates are present.
 {% endcomment %}
-{% assign projects = site.data.projects | sort: "date" | reverse %}
+{% assign projects = site.data.projects | where_exp: "project", "project.hidden != true" | sort: "date" | reverse %}
 {% for project in projects %}
   {%
     include card.html

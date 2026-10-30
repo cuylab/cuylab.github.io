@@ -1,6 +1,8 @@
 ---
 title: Project Title (TBD)
 layout: project
+# template: not built until set to true (also remove `hidden` from _data/projects.yaml)
+published: false
 # must match the `id` of the entry in _data/projects.yaml
 project: project-tbd
 ---

@@ -1,7 +1,9 @@
 # id: unique slug; news posts link to a project by listing this id under `projects:` in their front matter
 # date: internal only, used to sort the Projects page (newest first); not rendered on the site
 # authors: slugs of files in _members (e.g. matias-quintana)
+# hidden: true keeps an entry out of the Projects page; set `published: false` on its projects/<id>.md too
 - id: project-tbd
+  hidden: true
   title: Project Title (TBD)
   subtitle: Short one-line subtitle (TBD)
   date: 2026-10-14
