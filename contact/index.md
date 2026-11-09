@@ -10,8 +10,8 @@ nav:
 {%
   include button.html
   type="email"
-  text="matias.quintana@sec.ethz.ch"
-  link="matias.quintana@sec.ethz.ch"
+  text="mquintana@smu.edu.sg"
+  link="mquintana@smu.edu.sg"
 %}
 {%
   include button.html
