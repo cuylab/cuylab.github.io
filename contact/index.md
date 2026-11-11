@@ -17,7 +17,7 @@ nav:
   include button.html
   type="linkedin"
   text="LinkedIn"
-  link="company/cuy-lab"
+  link="https://www.linkedin.com/company/cuy-lab"
 %}
 
 {%
