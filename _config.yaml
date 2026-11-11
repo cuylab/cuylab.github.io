@@ -14,7 +14,7 @@ baseurl: ""
 
 # site social media and other links
 links:
-  github: cuylab
+  github: https://github.com/cuylab
   linkedin: https://www.linkedin.com/company/cuylab
 
 # web analytics — leave blank to disable. Nothing loads until a visitor
