@@ -14,8 +14,8 @@ baseurl: ""
 
 # site social media and other links
 links:
-  github: https://github.com/cuylab
-  linkedin: https://www.linkedin.com/company/cuylab
+  github: cuylab
+  linkedin-company: cuylab
 
 # web analytics — leave blank to disable. Nothing loads until a visitor
 # opts in via the cookie-consent banner. See _includes/analytics.html.

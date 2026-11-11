@@ -15,9 +15,9 @@ nav:
 %}
 {%
   include button.html
-  type="linkedin"
+  type="linkedin-company"
   text="LinkedIn"
-  link="https://www.linkedin.com/company/cuylab"
+  link="cuylab"
 %}
 
 {%
