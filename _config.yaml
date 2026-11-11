@@ -15,7 +15,7 @@ baseurl: ""
 # site social media and other links
 links:
   github: cuylab
-  linkedin:
+  linkedin: cuy-lab
 
 # web analytics — leave blank to disable. Nothing loads until a visitor
 # opts in via the cookie-consent banner. See _includes/analytics.html.
